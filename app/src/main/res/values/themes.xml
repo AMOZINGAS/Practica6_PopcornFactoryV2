@@ -1,0 +1,19 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Popcornfactory" parent="Theme.AppCompat.DayNight.NoActionBar">
+
+        <item name="colorPrimary">@color/almostblack</item>
+        <item name="colorPrimaryVariant">@color/almostblack</item>
+        <item name="colorOnPrimary">@color/babygray</item>
+
+        <item name="colorSecondary">@color/musatrd</item>
+        <item name="colorSecondaryVariant">@color/babymustard</item>
+        <item name="colorOnSecondary">@color/black</item>
+
+
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.Popcornfactory" parent="Base.Theme.Popcornfactory" />
+</resources>
